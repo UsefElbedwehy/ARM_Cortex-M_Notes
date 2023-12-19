@@ -1,4 +1,3 @@
-
 # SYSTICK
 
 - Count down timer.
